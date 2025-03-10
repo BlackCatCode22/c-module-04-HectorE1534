@@ -1,0 +1,16 @@
+Design Choices:
+
+I chose to make the generated report very bare bones. I did this because in my experience most institutions keep their reports very simple and to the point, so I thought that adding any unnecessary details would be unrealistic. 
+
+As for the design of the code itself, the way I wrote the code is simply how I am used to writing and reading code.
+
+
+Implementation Choices:
+
+Honestly for the most part I chose to implement certain parts of the code the way I did because it was the way I understood the best. There were multiple times when asking AI such as ChatGPT, Copilot, and even Claude, how I could improve the efficiency of my code by shortening it or making it simpler and it would recommend something that made absolutely no sense at all. 
+
+But there were multiple instances where AI was used to help me make the code shorter and more efficient. I commented on the source code wherever these instances occurred, while also explaining how I believed the code it recommended for me to use worked.
+
+The line of code that took me the longest to actually understand was line 83 this was because for multiple hours I tried to get the code to read the Arrivinganimals.txt file and it just wouldn't but eventually I realized it was because I had the .txt file in the wrong folder on my computer, safe to say that taught me an extremely valuable lesson. 
+
+Another thing I was debating on implementing was a randomly generated name for each animal using the animalNames.txt file provided but decided against it as the assignment didn't say that it was necessary, and that they only needed a name. I think if i had started this project 2 or more days prior to when I did, I most likely would have gone through with that decision.
